@@ -1,7 +1,5 @@
 # Move-It
 
-<h1>Move It</h1>
-
 <p>Move It is a website that connects customers with reliable and efficient moving services.</p>
 
 <h3>Features<h3></h3>
